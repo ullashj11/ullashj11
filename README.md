@@ -98,9 +98,3 @@ UI Designer • Creative Thinker • Frontend Explorer
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
-
-</div>
