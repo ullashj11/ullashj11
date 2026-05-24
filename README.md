@@ -56,7 +56,7 @@ UI Designer • Creative Thinker • Frontend Explorer
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ullashj11E&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=ullashj11&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
